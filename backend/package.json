@@ -1,5 +1,5 @@
 {
-  "name": "todo-backend",
+  "name": "praktikum-1-rest-schnitstelle-fur-todos-master-student",
   "version": "1.0.0",
   "description": "Backend für ToDo-Anwendung",
   "main": "index.js",
@@ -14,6 +14,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.18.2"
   }
 }
